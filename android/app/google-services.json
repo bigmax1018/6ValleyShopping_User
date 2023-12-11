@@ -1,0 +1,274 @@
+{
+  "project_info": {
+    "project_number": "975837518429",
+    "project_id": "sixvally-ecommerce",
+    "storage_bucket": "sixvally-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:9252be391a60be599f0bb4",
+        "android_client_info": {
+          "package_name": "com.example.sixvalley_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:2b518e828afc4c099f0bb4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:0d09565065ca513b9f0bb4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixvalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:e9aa79ea44c0dd549f0bb4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixvalley.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:352e7a4c67eb4c079f0bb4",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixvalley_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-vkv6djm84tlf6c2i9fsngo3ldf7m9vov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.sixvalley_delivery_boy",
+            "certificate_hash": "b0f12d389cacfdb6de975e12bc4cd7062ec75d04"
+          }
+        },
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975837518429:android:a7f94ac8a6f89cf49f0bb4",
+        "android_client_info": {
+          "package_name": "com.u6amtech.flutter_sixvalley_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975837518429-25bmhneodj5o063vrs4vlp3fqje3b6sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "9196908ad25cd833b07d2454ba7131f761864c09"
+          }
+        },
+        {
+          "client_id": "975837518429-3vqdo03mdp3a3b2cahfjmt5bue13u1jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "b0f12d389cacfdb6de975e12bc4cd7062ec75d04"
+          }
+        },
+        {
+          "client_id": "975837518429-58araiog21pt5ca7rcdf4hv6gpoo867v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "5174bb127f738b159ef1dd0a987166a682761bf3"
+          }
+        },
+        {
+          "client_id": "975837518429-f8qh6fhj86b6uij5svtb7b0ho778rg7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "550843af4a3b4a2ca750721b8a58a9f493478aa7"
+          }
+        },
+        {
+          "client_id": "975837518429-pidld9varkhfjqe8o0rs8ddo2ir069qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_sixvalley_ecom",
+            "certificate_hash": "40d632f22524c13a03fbd731007d7e586a846ef0"
+          }
+        },
+        {
+          "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsHYb8ZE_uJrrwUwEYpTHqIqY-agEtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975837518429-qi152b6nr4p0p55p4erbosur4l0u31ak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975837518429-3r2c1jsuhu6hnn0ark4p2ru7ilmo7p7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.6amtech.flutterSetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
