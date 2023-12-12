@@ -74,6 +74,7 @@ class AllCategoryScreen extends StatelessWidget {
                           isBrand: false,
                           id: categoryProvider.categoryList[categoryProvider.categorySelectedIndex!].id.toString(),
                           name: categoryProvider.categoryList[categoryProvider.categorySelectedIndex!].name,
+                          index: index,
                         )));
                       },
                     ),
@@ -101,6 +102,7 @@ class AllCategoryScreen extends StatelessWidget {
                           isBrand: false,
                           id: subCategory.id.toString(),
                           name: subCategory.name,
+                          index: index,
                         )));
                       },
                     ),
@@ -140,6 +142,7 @@ class AllCategoryScreen extends StatelessWidget {
             isBrand: false,
             id: subCategory.id.toString(),
             name: subCategory.name,
+            index: 0,
           )));
         },
       ),
@@ -167,6 +170,7 @@ class AllCategoryScreen extends StatelessWidget {
               isBrand: false,
               id: subCategory.subSubCategories![index].id.toString(),
               name: subCategory.subSubCategories![index].name,
+              index: index,
             )));
           },
         ),
