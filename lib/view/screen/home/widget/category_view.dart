@@ -29,8 +29,9 @@ class CategoryView extends StatelessWidget {
                     isBrand: false,
                     id: categoryProvider.categoryList[index].id.toString(),
                     name: categoryProvider.categoryList[index].name,
-                    // index: index,
+                    index: index,
                   )));
+                  Provider.of<CategoryProvider>(context, listen: false).changeSelectedIndex(0);
                 },
                 child: CategoryWidget(category: categoryProvider.categoryList[index], index: index,length:  categoryProvider.categoryList.length),
               );
