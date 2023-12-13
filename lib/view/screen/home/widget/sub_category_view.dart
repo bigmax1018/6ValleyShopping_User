@@ -23,7 +23,6 @@ class SubCategoryView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    CategoryProvider categoryProvider = Provider.of(context, listen: false);
     return Consumer<CategoryProvider>(
       builder: (context, categoryProvider, child) {
         return

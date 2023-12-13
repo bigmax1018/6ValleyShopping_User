@@ -29,7 +29,7 @@ class CategoryView extends StatelessWidget {
                     isBrand: false,
                     id: categoryProvider.categoryList[index].id.toString(),
                     name: categoryProvider.categoryList[index].name,
-                    index: index,
+                    // index: index,
                   )));
                 },
                 child: CategoryWidget(category: categoryProvider.categoryList[index], index: index,length:  categoryProvider.categoryList.length),
